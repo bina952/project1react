@@ -28,11 +28,95 @@
   color: #61dafb;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
+img{
+  height: 5%;
+  width: 4%;
+  margin-left: 10px;
+}
+
+.ms-auto{
+  background-color:darkcyan;
+  
   }
-  to {
-    transform: rotate(360deg);
+  .semo{
+    background-color:palevioletred;
+    width:100%;
+    column-count: 1;
   }
+   .semo img{
+    height:auto;
+    width: 20%;
+   margin-top: 0%;
+    margin-right: 60%;
+    
+  }
+  .semo h2{
+    margin-right: 60%;
+    color: black;
+  }
+  .semo p{
+    margin-right: 60%;
+    color: black;
+  }
+   
+  .hey p{
+margin-left: 35%;
+    height: 10%;
+    width: 30%;
+    
+  }
+   .design{
+  margin-left: 30%;
+  
+}
+.design p{
+
+    height: 10%;
+    width: 35%;
+}
+.design button{
+  margin-right: 60%; 
+}   
+
+.form-group{
+    margin-left: 40%;
+    height: 10%;
+    width: 20%;
+   }
+  
+   .test p{
+    font-size: 20px;
+   }
+   .media{
+ margin-left: 30%;
+ background-color: white;
+  
+   }
+   .web{
+    margin-left: 30%;
+
+ background-color: white;
+
+  }
+  .deved{
+    margin-left: 20%;
+  margin-right: 10%;
+    background-color: white;
+    
+  }
+.testimonals{
+  width:100%;
+  column-count: 3;
+  
+}
+.test{
+  background-color: aqua;
+  width: 100%;
+}
+.copyright{
+  background-color: #282c34;
+  
+}
+.copyright p{
+  color: bisque;
 }
